@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+	  <class name="pk8testng.Pr01VerifyPages">
+		<methods>
+      		<include name="verifyHomePage" />
+      	</methods>
+	  </class>
+      <class name="pk8testng.Pr02NavigationBarCheckWithPOM">
+		<methods>
+      		<include name="checkNavigationBarLinks" />
+      	</methods>
+	  </class>
+      <class name="pk8testng.Pr03Login">
+		<methods>
+      		<include name="loginUser1" />
+      	</methods>
+	  </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

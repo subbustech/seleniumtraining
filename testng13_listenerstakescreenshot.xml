@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <listeners>
+	<listener class-name="pk12testnglistenerstakescreenshot.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="pk12testnglistenerstakescreenshot.Pr02Login"/>
+      <class name="pk12testnglistenerstakescreenshot.Pr01VerifyPages"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

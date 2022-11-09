@@ -1,0 +1,4 @@
+22:14:50.304 [main] INFO  pk07log4j2.pk2.Pr01SignUpNewUser - This is info message
+22:14:50.379 [main] WARN  pk07log4j2.pk2.Pr01SignUpNewUser - This is warn message
+22:14:50.481 [main] ERROR pk07log4j2.pk2.Pr01SignUpNewUser - This is error message
+22:14:50.552 [main] FATAL pk07log4j2.pk2.Pr01SignUpNewUser - This is fatal message

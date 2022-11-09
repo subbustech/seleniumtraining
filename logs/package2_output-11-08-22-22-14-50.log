@@ -1,0 +1,6 @@
+22:14:00.855 [main] TRACE pk07log4j2.pk2.Pr01SignUpNewUser - This is trace message
+22:14:02.059 [main] DEBUG pk07log4j2.pk2.Pr01SignUpNewUser - This is debug message
+22:14:02.451 [main] INFO  pk07log4j2.pk2.Pr01SignUpNewUser - This is info message
+22:14:02.519 [main] WARN  pk07log4j2.pk2.Pr01SignUpNewUser - This is warn message
+22:14:02.626 [main] ERROR pk07log4j2.pk2.Pr01SignUpNewUser - This is error message
+22:14:02.695 [main] FATAL pk07log4j2.pk2.Pr01SignUpNewUser - This is fatal message
