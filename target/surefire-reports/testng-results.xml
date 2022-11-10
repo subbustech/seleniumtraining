@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="101559" started-at="2022-11-09T01:00:36 IST" finished-at="2022-11-09T01:02:18 IST">
+  <suite started-at="2022-11-10T23:58:26 IST" name="Suite" finished-at="2022-11-10T23:59:08 IST" duration-ms="41901">
     <groups>
     </groups>
-    <test name="Test" duration-ms="101559" started-at="2022-11-09T01:00:36 IST" finished-at="2022-11-09T01:02:18 IST">
+    <test started-at="2022-11-10T23:58:26 IST" name="Test" finished-at="2022-11-10T23:59:08 IST" duration-ms="41901">
       <class name="pk08testng.Pr02NavigationBarCheckWithPOM">
-        <test-method status="PASS" signature="checkNavigationBarLinks()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@370736d9]" name="checkNavigationBarLinks" duration-ms="3369" started-at="2022-11-09T01:01:40 IST" finished-at="2022-11-09T01:01:43 IST">
+        <test-method signature="checkNavigationBarLinks()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@4f638935]" started-at="2022-11-10T23:58:39 IST" name="checkNavigationBarLinks" finished-at="2022-11-10T23:58:41 IST" duration-ms="2480" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkNavigationBarLinks -->
-        <test-method status="PASS" signature="searchAudi()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@370736d9]" name="searchAudi" duration-ms="3469" started-at="2022-11-09T01:01:43 IST" finished-at="2022-11-09T01:01:47 IST">
+        <test-method signature="searchAudi()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@4f638935]" started-at="2022-11-10T23:58:41 IST" name="searchAudi" finished-at="2022-11-10T23:58:44 IST" duration-ms="2773" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAudi -->
-        <test-method status="PASS" signature="searchBMW()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@370736d9]" name="searchBMW" duration-ms="3602" started-at="2022-11-09T01:01:47 IST" finished-at="2022-11-09T01:01:50 IST">
+        <test-method signature="searchBMW()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@4f638935]" started-at="2022-11-10T23:58:44 IST" name="searchBMW" finished-at="2022-11-10T23:58:47 IST" duration-ms="2595" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchBMW -->
-        <test-method status="PASS" signature="searchMaruthi()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@370736d9]" name="searchMaruthi" duration-ms="3511" started-at="2022-11-09T01:01:50 IST" finished-at="2022-11-09T01:01:54 IST">
+        <test-method signature="searchMaruthi()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@4f638935]" started-at="2022-11-10T23:58:47 IST" name="searchMaruthi" finished-at="2022-11-10T23:58:49 IST" duration-ms="2611" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchMaruthi -->
-        <test-method status="PASS" signature="searchNissan()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@370736d9]" name="searchNissan" duration-ms="3519" started-at="2022-11-09T01:01:54 IST" finished-at="2022-11-09T01:01:57 IST">
+        <test-method signature="searchNissan()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@4f638935]" started-at="2022-11-10T23:58:49 IST" name="searchNissan" finished-at="2022-11-10T23:58:52 IST" duration-ms="2786" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchNissan -->
-        <test-method status="PASS" signature="searchToyota()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@370736d9]" name="searchToyota" duration-ms="3557" started-at="2022-11-09T01:01:57 IST" finished-at="2022-11-09T01:02:01 IST">
+        <test-method signature="searchToyota()[pri:0, instance:pk08testng.Pr02NavigationBarCheckWithPOM@4f638935]" started-at="2022-11-10T23:58:52 IST" name="searchToyota" finished-at="2022-11-10T23:58:55 IST" duration-ms="2709" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchToyota -->
       </class> <!-- pk08testng.Pr02NavigationBarCheckWithPOM -->
       <class name="pk08testng.Pr01VerifyPages">
-        <test-method status="PASS" signature="verifyAboutUsPage()[pri:0, instance:pk08testng.Pr01VerifyPages@3108bc]" name="verifyAboutUsPage" duration-ms="20321" started-at="2022-11-09T01:00:36 IST" finished-at="2022-11-09T01:00:57 IST">
+        <test-method signature="verifyAboutUsPage()[pri:0, instance:pk08testng.Pr01VerifyPages@1460a8c0]" started-at="2022-11-10T23:58:26 IST" name="verifyAboutUsPage" finished-at="2022-11-10T23:58:29 IST" duration-ms="3291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAboutUsPage -->
-        <test-method status="PASS" signature="verifyCarListingPage()[pri:0, instance:pk08testng.Pr01VerifyPages@3108bc]" name="verifyCarListingPage" duration-ms="2864" started-at="2022-11-09T01:00:57 IST" finished-at="2022-11-09T01:00:59 IST">
+        <test-method signature="verifyCarListingPage()[pri:0, instance:pk08testng.Pr01VerifyPages@1460a8c0]" started-at="2022-11-10T23:58:29 IST" name="verifyCarListingPage" finished-at="2022-11-10T23:58:32 IST" duration-ms="2524" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCarListingPage -->
-        <test-method status="PASS" signature="verifyContactUsPage()[pri:0, instance:pk08testng.Pr01VerifyPages@3108bc]" name="verifyContactUsPage" duration-ms="2768" started-at="2022-11-09T01:00:59 IST" finished-at="2022-11-09T01:01:02 IST">
+        <test-method signature="verifyContactUsPage()[pri:0, instance:pk08testng.Pr01VerifyPages@1460a8c0]" started-at="2022-11-10T23:58:32 IST" name="verifyContactUsPage" finished-at="2022-11-10T23:58:34 IST" duration-ms="2501" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyContactUsPage -->
-        <test-method status="PASS" signature="verifyFAQsPage()[pri:0, instance:pk08testng.Pr01VerifyPages@3108bc]" name="verifyFAQsPage" duration-ms="18837" started-at="2022-11-09T01:01:02 IST" finished-at="2022-11-09T01:01:21 IST">
+        <test-method signature="verifyFAQsPage()[pri:0, instance:pk08testng.Pr01VerifyPages@1460a8c0]" started-at="2022-11-10T23:58:34 IST" name="verifyFAQsPage" finished-at="2022-11-10T23:58:37 IST" duration-ms="2445" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFAQsPage -->
-        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:pk08testng.Pr01VerifyPages@3108bc]" name="verifyHomePage" duration-ms="18648" started-at="2022-11-09T01:01:21 IST" finished-at="2022-11-09T01:01:40 IST">
+        <test-method signature="verifyHomePage()[pri:0, instance:pk08testng.Pr01VerifyPages@1460a8c0]" started-at="2022-11-10T23:58:37 IST" name="verifyHomePage" finished-at="2022-11-10T23:58:39 IST" duration-ms="2110" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePage -->
       </class> <!-- pk08testng.Pr01VerifyPages -->
       <class name="pk08testng.Pr03Login">
-        <test-method status="PASS" signature="loginUser1()[pri:0, instance:pk08testng.Pr03Login@5f9d02cb]" name="loginUser1" duration-ms="4185" started-at="2022-11-09T01:02:01 IST" finished-at="2022-11-09T01:02:05 IST">
+        <test-method signature="loginUser1()[pri:0, instance:pk08testng.Pr03Login@4387b79e]" started-at="2022-11-10T23:58:55 IST" name="loginUser1" finished-at="2022-11-10T23:58:58 IST" duration-ms="3297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUser1 -->
-        <test-method status="PASS" signature="loginUser2()[pri:0, instance:pk08testng.Pr03Login@5f9d02cb]" name="loginUser2" duration-ms="4281" started-at="2022-11-09T01:02:05 IST" finished-at="2022-11-09T01:02:09 IST">
+        <test-method signature="loginUser2()[pri:0, instance:pk08testng.Pr03Login@4387b79e]" started-at="2022-11-10T23:58:58 IST" name="loginUser2" finished-at="2022-11-10T23:59:01 IST" duration-ms="3208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUser2 -->
-        <test-method status="PASS" signature="loginUser3()[pri:0, instance:pk08testng.Pr03Login@5f9d02cb]" name="loginUser3" duration-ms="4274" started-at="2022-11-09T01:02:09 IST" finished-at="2022-11-09T01:02:13 IST">
+        <test-method signature="loginUser3()[pri:0, instance:pk08testng.Pr03Login@4387b79e]" started-at="2022-11-10T23:59:01 IST" name="loginUser3" finished-at="2022-11-10T23:59:05 IST" duration-ms="3193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUser3 -->
-        <test-method status="PASS" signature="loginUser4()[pri:0, instance:pk08testng.Pr03Login@5f9d02cb]" name="loginUser4" duration-ms="4247" started-at="2022-11-09T01:02:14 IST" finished-at="2022-11-09T01:02:18 IST">
+        <test-method signature="loginUser4()[pri:0, instance:pk08testng.Pr03Login@4387b79e]" started-at="2022-11-10T23:59:05 IST" name="loginUser4" finished-at="2022-11-10T23:59:08 IST" duration-ms="3309" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUser4 -->
